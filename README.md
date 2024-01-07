@@ -18,7 +18,7 @@ Hi, I'm Aaron. 👋
 ### Personal Interests
 - **Game Development** 🎮
 
-  In my free time I'm trying to learn about **Game Development**. My current goal is to create a portfolio and join a game development company/startup. I've done two games using Unity Engine and put them into my **itch.io** profile. Their source codes are also publicly available in my **GitHub** profile. You can access my itch.io profile and play my games here: https://ereneren.itch.io/
+  In my free time I'm trying to learn about **Game Development**. My current goal is to create a portfolio and join a game development company/startup. I've done two games using Unity Engine and put them into my **itch.io** profile. Their source codes are also publicly available in my **GitHub** profile. I've recently started studying Unreal Engine. My favourite art style is low poly PSX style games. You can access my itch.io profile and play my games here: https://ereneren.itch.io/
   
 - **Financial Markets and Algorithmic Trading** 📈
   
