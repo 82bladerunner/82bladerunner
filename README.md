@@ -1,6 +1,6 @@
 Hi, 👋
 - My professional experiences include 💹 *Algorithmic Trading*, 💻 *.NET Development*, 🧪 *QA Testing*.
-- My personal interests are 🎮 *game development*, 📈 *financial markets and algorithmic trading*, 🎨 *art and animation*, 🔊 *sound design and music production*, 📚*language learning*.
+- My personal interests are 🎮 *game development*, 📈 *financial markets and algorithmic trading*, 🎨 *art and animation*, 🔊 *sound design and music production*.
 
 ### Professional Experience
 - **Algorithmic Trading** 💹
@@ -32,6 +32,3 @@ Hi, 👋
   
   I can play guitar, bass and sing vocals. I've played in one album and one single. Lately, I've bought an **Elektron Digitakt** and learning it on my spare time. I have also made my own recordings and put them on my **SoundCloud**. You can check out my soundcloud here: https://soundcloud.com/eren-ak-3
   
-- **Language Learning** 📚
-
-    I enjoy learning languages of the cultures I interact with. I've learned Russian up to B1 level and currently learning Czech. I have learned English from a young age already. 
