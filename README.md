@@ -1,6 +1,6 @@
 Hi, 👋
 - My professional experiences include 💹 *Algorithmic Trading*, 💻 *.NET Development*, 🧪 *QA Testing*.
-- My personal interests are 🎮 *game development*, 📈 *financial markets and algorithmic trading*, 🎨 *art and animation*, 🔊 *sound design and music production*.
+- My personal interests are *application development*, 🎮 *game development*, 📈 *financial markets and algorithmic trading*, 🎨 *art and animation*, 🔊 *sound design and music production*.
 
 ### Professional Experience
 - **Algorithmic Trading** 💹
