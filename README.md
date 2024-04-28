@@ -22,7 +22,7 @@ Hi, 👋
   
 - **Financial Markets and Algorithmic Trading** 📈
   
-  I have been a part of a few blockchain communities. One which I have personally started and the second one being our university's blockchain club. Through these I've been to a few meetups and conferences. In one workshop I had a brief introduction on **Solidity**. I trade futures from time to time in my daily life and follow the markets.
+  I have been a part of a few blockchain communities. One which I have personally started and the second one being our university's blockchain club. Through these I've been to a few meetups and conferences. In one workshop I had a brief introduction on **Solidity**. I trade futures from time to time in my daily life and follow the markets. You can check out my personal bot to trade cryptocurrencies on Binance here: https://github.com/82bladerunner/Blue-Funding
   
 - **Art and Animation** 🎨
   
