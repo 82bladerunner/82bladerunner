@@ -30,5 +30,5 @@ Hi, 👋
   
 - **Sound Design and Music Production** 🔊
   
-  I can play guitar, bass and sing vocals. I've played in one album and one single. Lately, I've bought an **Elektron Digitakt** and learning it on my spare time. I have also made my own recordings and put them on my **SoundCloud**. You can check out my soundcloud here: https://soundcloud.com/eren-ak-3
+  I can play guitar, bass and sing vocals. I've played in one album and one single. Lately, I've bought an **Elektron Digitakt** and learning it on my spare time. I have also made my own recordings and put them on my **SoundCloud**.
   
