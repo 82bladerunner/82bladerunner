@@ -9,7 +9,7 @@ Hi, 👋
   
 - **.NET Development** 💻
   
-  Two positions I've worked in the past provided me hands on experience with **.NET**. I've also done a personal desktop application project called **BlueFunding** and ran it on a remote server that I rented.
+  To briefly talk about my most important past projects, BlueFunding was a personal project of mine that made me learn how to create a desktop application from ground up using .NET and making HTTPClient connections, use REST API services, creating my own classes and frameworks. Really robusted my C# skills. Using a cloud server and running an application there. Learning about SSL security through a shared server. Financial algorithms and trading. I learned about Asynchronous Programming and Threading. The project can be found right here: https://github.com/82bladerunner/Blue-Funding
   
 - **QA Testing** 🧪
   
@@ -18,7 +18,7 @@ Hi, 👋
 ### Personal Interests
 - **Game Development** 🎮
 
-  In my free time I'm trying to learn about **Game Development**. My current goal is to create a portfolio and join a game development company/startup. I've done two games using Unity Engine and put them into my **itch.io** profile. Their source codes are also publicly available in my **GitHub** profile. I've recently started studying Unreal Engine. My favourite art style is low poly PSX style games. You can access my itch.io profile and play my games here: https://ereneren.itch.io/
+ My other projects were three Unity Engine games where I used C#, created a complex class system and game controllers, mixed animation, sound, and game design elements all on my own. Learned the importance of clean code. One of the projects was for a Cryptocurrency company where I received funding and made a pre-sale by combining NFT technologies and Gamification into my platformer project and marketing it. Two of the projects can be played right here on your browser: https://ereneren.itch.io
   
 - **Financial Markets and Algorithmic Trading** 📈
   
